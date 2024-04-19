@@ -1,0 +1,197 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Times New Roman', Times, serif;
+}
+nav{
+    width: 100%;
+    background: black;
+    overflow: hidden;
+    position: fixed;
+    top: 0px;
+}
+ul{
+    padding:0px;
+    margin: 0px;
+    list-style: none;
+}
+li{
+    float:right;
+}
+a{
+    padding: 20px;
+    width: 100px;
+    display: block;
+    text-decoration:none;
+    font-weight: bold;
+    color: white;
+}
+#aboutme{
+    height:800px;
+    display:inline-block;
+    width: 100%;
+h1{
+  color:cornsilk;
+  font-family:serif;
+  text-align: justify;
+  margin-left: 10%;
+  margin-right: 55%;
+  margin-top:14%;
+  font-size: 50px;
+}
+h2{
+    color:#fff;
+    font-family:'Times New Roman', Times, serif;
+    text-align: justify;
+    margin-left: 13%;
+    margin-right: 55%;
+    margin-top:-5%;
+    font-size: 35px;
+}
+p{
+    color: #fff;
+    font-family:'Times New Roman', Times, serif;
+    text-align: justify;
+    margin-left: 13%;
+    margin-right:45%;
+    margin-top: 1%;
+    font-size: 20px;
+    text-indent: 35px;
+}
+}
+.aboutme
+{
+    background-image: url('front.jpg');
+background-size: cover;
+}
+.oop{
+    width: 130px;
+    height: 130px;   
+    margin-left: 85%;
+    margin-top: -2%;
+}
+.web{
+    width: 130px;
+    height: 130px;   
+    margin-left: 4%;
+    margin-top:-1%;
+}
+.sql{
+    width: 130px;
+    height: 130px;   
+    margin-left: 85%;
+    margin-top: -3%;
+}
+#skills{
+    height:800px;
+    display:inline-block;
+    width: 100%;
+    background-color: #d2d4d4;
+    h1{
+        font-size: 45px;
+    }
+    h2{
+        margin-left: 1%;
+        margin-top: -3%; 
+        font-size: 25px; 
+    }
+    p{
+    text-align: justify;
+    font-size: 18px;
+    line-height: 1.5;
+    }
+    h3{
+        margin-left: 1%;
+        margin-top: 2%; 
+        font-size: 25px; 
+    }
+        h4{
+            margin-left: 1%;
+            margin-top: 3%; 
+            font-size: 25px; 
+        }
+}
+.object{
+    width: 130px;
+    height: 130px;   
+    margin-left: 71%;
+    margin-top: -2%;
+}
+.medicine{
+    width: 130px;
+    height: 130px;   
+    margin-left: 7%;
+    margin-top:-1%;
+}
+.ticket{
+    width: 130px;
+    height: 130px;   
+    margin-left: 77%;
+    margin-top: -3%;
+}
+#project{
+    height:800px;
+    display:inline-block;
+    width: 100%;
+    background-color:#e9e9ea;
+    h1{
+        font-size: 45px;
+    }
+    h2{
+        margin-left: 2%;
+        margin-top: -3%; 
+        font-size: 25px; 
+    }
+    p{
+        text-align: justify;
+        font-size: 20px;
+        line-height: 2;
+     }
+     h3{
+        margin-left: 2%;
+        margin-top: 3%; 
+        font-size: 25px; 
+     }
+     h4{
+        margin-left: 2%;
+        margin-top: 3%; 
+        font-size: 25px; 
+     }
+}
+.contact{
+    width: 450px;
+    height: 450px;   
+    margin-left: 50%;
+    margin-top: -18%;
+}
+.linkedin{
+    margin-left: 15%;
+    margin-top: -14%;
+}
+.github{
+    margin-left: 20%;
+    margin-top: -7%;
+}
+#contact{
+    height:800px;
+    display:inline-block;
+    width: 100%;
+    background-color:  #bcbebf;
+    h1{
+        font-size: 45px;
+    }
+    p{
+        text-align: justify;
+        font-size: 30px;
+        line-height: 2;
+        margin-left: 10%;
+    }
+}
+h1{
+    margin:100px;
+    text-align:center;
+    padding:0;
+    }
