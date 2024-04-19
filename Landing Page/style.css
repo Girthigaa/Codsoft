@@ -1,0 +1,141 @@
+html{
+scroll-behavior:smooth;
+}
+body{
+margin:0;
+padding:0;
+font-family:times new roman;
+}
+nav{
+width:100%;
+background:#000000;
+overflow:hidden;
+position: fixed;
+top:10;
+}
+ul{
+padding:0px;
+margin:0px;
+list-style:none;
+}
+li{
+float:right;
+}
+a{
+padding:20px;
+width:100px;
+display:block;
+text-decoration:none;
+text-transform:uppercase;
+font-weight:bold;
+color:#FFFFFF;
+}
+
+#home{
+height:800px;
+display:inline-block;
+width:100%;
+h1{
+    margin:100px;
+    text-align:center;
+    font-size:45px;
+    position: absolute;
+    top:-5%;
+    left:34%;
+    }
+    p{
+        margin-left: 55%;
+        color:#000000;
+        font-size: 25px;
+        margin-top:12%;
+        line-height: 50px;
+    }
+}
+.home
+{
+    background-image: url('front.jpg');
+background-size: cover;
+}
+
+#about{
+height:800px;
+background-color:#D2F7FF;
+display:inline-block;
+width:100%;
+h1{
+    margin:100px;
+    text-align:center;
+    padding:0;
+    font-size:35px;
+    }
+ul{
+    text-align: justify;
+    margin-left: 43%;
+    margin-right: 4%;
+    margin-top:-37%;
+    font-size: 18px;
+    list-style-type:square;
+    line-height: 30px;
+}
+img{
+   width: 550px;
+   height: 550px;   
+   margin-left: 3%;
+   margin-top: -5%;
+}
+}
+
+#wonders{
+height:800px;
+background-color: #E2F9FE;
+display:inline-block;
+width:100%;
+h1{
+    margin:100px;
+    text-align:center;
+    padding:0;
+    font-size:35px;
+    }
+    ul{
+        text-align: justify;
+        margin-right: 43%;
+        margin-left:4%;
+        margin-top:-36%;
+        font-size: 19px;
+        list-style-type:square;
+        line-height: 35px;
+}
+img{
+    width: 550px;
+    height: 550px;   
+    margin-left: 60%;
+    margin-top: -5%;
+ }
+}
+
+#contact{
+height:800px;
+display:inline-block;
+width:100%;
+h1{
+    margin:100px;
+    text-align:center;
+    padding:0;
+    font-size:40px;
+    color:whitesmoke;
+    }
+    p{
+        margin-left: 6%;
+        color:white;
+        font-size: 25px;
+        line-height: 40px;
+    }
+}
+.contact
+ {
+     background-image: url('fourth.jpeg');
+     background-size: cover;
+ }
+
+
+
